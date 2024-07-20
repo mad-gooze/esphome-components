@@ -17,7 +17,7 @@ namespace esphome {
 namespace bleadvlight {
 
 static const char *TAG = "zhijia_light";
-static const unsigned char UUID1[] = {0xc6, 0x30, 0xb8};
+static const unsigned char UUID1[] = {0xa6, 0x8a, 0x94};
 static const unsigned char MAC[] = {0x19, 0x01, 0x10};
 static const unsigned char GROUP = 127;
 
